@@ -1,1 +1,1 @@
-# MyGSU
+# myGSU
